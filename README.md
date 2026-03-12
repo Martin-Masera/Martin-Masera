@@ -58,5 +58,6 @@ A full-stack travel booking platform built as my university capstone project, in
 
 ### 📊 GitHub Stats
 
-![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martin-Masera&show_icons=true&theme=tokyonight&hide_border=true)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martin-Masera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Masera&layout=compact&theme=tokyonight&hide_border=true)
