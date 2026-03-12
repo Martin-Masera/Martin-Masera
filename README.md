@@ -60,7 +60,3 @@ A full-stack travel booking platform built as my university capstone project, in
 
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martin-Masera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Masera&layout=compact&theme=tokyonight&hide_border=true)
-
-### 📏 Líneas de código totales
-
-![Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Masera&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=deviaje-frontend,deviaje-bookings-and-payments,deviaje-searches,deviaje-users-and-auth&count_private=true)
